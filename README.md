@@ -1,5 +1,5 @@
 # Chinese-Social-Media-Infodemic-Database
-A database for misinformation and disinformation (Covid, 2024.03) storage in Sina-Weibo, and related research.
+A database for infodemic (include Covid-related contents, 2024.03) storage in Sina-Weibo, and related research.
 
 Old name of this repository: Covid-Misinformation
 
